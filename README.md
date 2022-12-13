@@ -1,10 +1,10 @@
-##Flatacuties Code Challenge
+## Flatacuties Code Challenge
 
 Today i'll be building an app for voting for the cutest animal! I will be
 using a local API and building out the frontend for our app, Flatacuties.
 
 
-##Deliverables
+## Deliverables
 
 As a user, I can:
 
@@ -55,6 +55,5 @@ As a user, I can:
    the input field to the character displayed in the `div#detailed-info`. **No
    persistence is needed**.
 
-##Author
-For more information about this project contact me on:
-Elias Ndegwa(https://github.com/eliasndegwa)
+## Author
+For more information about this project contact me on: Elias Ndegwa(https://github.com/eliasndegwa)
